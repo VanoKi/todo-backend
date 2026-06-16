@@ -1,0 +1,17 @@
+{
+    "todoLists": [
+      {
+        "id": "1",
+        "title": "What to learn",
+        "addedDate": "2024-01-01",
+        "order": 0
+      },
+      {
+        "id": "2",
+        "title": "What to buy",
+        "addedDate": "2024-01-01",
+        "order": 1
+      }
+    ],
+    "tasks": []
+  }
